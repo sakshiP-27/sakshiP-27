@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sakshi Paygude</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakship-27&label=Profile%20views&color=0e75b6&style=flat" alt="sakship-27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiP-27&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiP-27" /> </p>
 
 - 🔭 I’m currently working on **GreenGauge(Final Year Project)**
 
