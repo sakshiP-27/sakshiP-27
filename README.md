@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiP-27&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiP-27" /> </p>
 
-- 🔭 I’m currently working on **GreenGauge(Final Year Project)**
+- 🔭 I’m currently working on **CarbonPulse(Final Year Project)**
 
 - 🌱 I’m currently learning **Advanced Python, SQL and Tableau**
 
