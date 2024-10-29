@@ -13,7 +13,7 @@
 
 - 💬 Ask me anything about **Data Science**
 
-- 📫 How to reach me <a href="sakshipaygude27@gmail.com">Email</a>
+- 📫 How to reach me <a href="mailto:sakshipaygude27@gmail.com">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
