@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CarbonPulse(Final Year Project)**
 
-- 🌱 I’m currently learning **Advanced Python, SQL and Tableau**
+- 🌱 I’m currently learning **Advanced Python, Machine Learning and SQL**
 
 - 🤝 I’m looking for help with **Networking & Potential Opportunities in Data Science**
 
