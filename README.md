@@ -83,11 +83,11 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakship-27&show_icons=true&locale=en&layout=compact&theme=dark" alt="sakship-27 top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakship-27&show_icons=true&locale=en&layout=compact&theme=dark" alt="sakshiP-27 top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakship-27&show_icons=true&locale=en&theme=dark" alt="sakship-27 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakship-27&show_icons=true&locale=en&theme=dark" alt="sakshiP-27 GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakship-27&theme=dark" alt="sakship-27 streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakship-27&theme=dark" alt="sakshiP-27 streak stats" />
 </p>
