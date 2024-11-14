@@ -83,11 +83,9 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiP-27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sakshiP-27 top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshiP-27&show_icons=true&locale=en&theme=tokyonight" alt="sakshiP-27 GitHub stats" />
-</p>
-<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=sakshiP-27&show_icons=true&locale=en&theme=tokyonight" alt="sakshiP-27 GitHub stats" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiP-27&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshiP-27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sakshiP-27 top languages" />
 </p>
